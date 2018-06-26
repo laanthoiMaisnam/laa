@@ -5,3 +5,6 @@ def add(a,b):
 def mpy(a,b):
     c=a*b
     return c
+
+
+semdokpane
