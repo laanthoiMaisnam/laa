@@ -6,4 +6,4 @@ def mpy(a,b):
     c=a*b
     return c
 
-amuka semdokpa
+amukasu semdokpa
